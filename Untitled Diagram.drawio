@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T12:14:48.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6DmqUH-2sosjyMU5x5WB" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T12:31:13.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZO7b2T1Ea9935BOjIpjT" version="24.5.5" type="github">
   <diagram name="Page-1" id="LG2aejodbbx1wu4bJTzq">
     <mxGraphModel dx="1371" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -274,8 +274,56 @@
         <mxCell id="KyUrAidOEwDMEyV5-HBK-34" value="useLayoutEffect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KyUrAidOEwDMEyV5-HBK-36" target="KyUrAidOEwDMEyV5-HBK-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KyUrAidOEwDMEyV5-HBK-36" value="useImperativeHendler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KyUrAidOEwDMEyV5-HBK-38" target="KyUrAidOEwDMEyV5-HBK-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-38" value="useDefferedValue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KyUrAidOEwDMEyV5-HBK-40" target="KyUrAidOEwDMEyV5-HBK-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-40" value="useTransition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KyUrAidOEwDMEyV5-HBK-42" target="KyUrAidOEwDMEyV5-HBK-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-42" value="Custom Hooks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KyUrAidOEwDMEyV5-HBK-44" target="KyUrAidOEwDMEyV5-HBK-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-44" value="useDebugValue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KyUrAidOEwDMEyV5-HBK-46" target="KyUrAidOEwDMEyV5-HBK-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-46" value="useId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyUrAidOEwDMEyV5-HBK-48" value="Last Improvement?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
