@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T15:07:42.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="s2vvEF2VwY_hj81MrTlJ" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T15:18:11.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-t-9-gVkIBOaqyITZSue" version="24.5.5" type="github">
   <diagram name="Page-1" id="LG2aejodbbx1wu4bJTzq">
-    <mxGraphModel dx="1900" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
             <mxPoint x="80" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z8JezbtAQ2rlnTOmX2S_-9" value="Language" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="z8JezbtAQ2rlnTOmX2S_-9" value="Language&lt;div&gt;30 Min&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8JezbtAQ2rlnTOmX2S_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8JezbtAQ2rlnTOmX2S_-11" target="z8JezbtAQ2rlnTOmX2S_-15" edge="1">
