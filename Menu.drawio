@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T05:05:09.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YEwGC5vSoMn7lKW4pczD" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T06:59:39.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TmpWEmNOzDP6RonJamni" version="24.5.5" type="github">
   <diagram name="Page-1" id="k91YlH_2i0-Fb6imYHZs">
     <mxGraphModel dx="1725" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,6 +104,41 @@
         </mxCell>
         <mxCell id="Frx3Vn75q-I1JXAV17rQ-39" value="Or JSON" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Frx3Vn75q-I1JXAV17rQ-40" target="Frx3Vn75q-I1JXAV17rQ-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-40" value="Dependencies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Frx3Vn75q-I1JXAV17rQ-42" target="Frx3Vn75q-I1JXAV17rQ-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-42" value="Bootstrap@5.3.3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Frx3Vn75q-I1JXAV17rQ-44" target="Frx3Vn75q-I1JXAV17rQ-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-44" value="React-icons@5.2.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Frx3Vn75q-I1JXAV17rQ-46" target="Frx3Vn75q-I1JXAV17rQ-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="400.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-46" value="React-router-dom@6.23.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-48" value="React-helmet-async@2.0.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="390.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
