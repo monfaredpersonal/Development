@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T04:29:42.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fIp2h6hgdkIxNevGixcM" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T05:05:09.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YEwGC5vSoMn7lKW4pczD" version="24.5.5" type="github">
   <diagram name="Page-1" id="k91YlH_2i0-Fb6imYHZs">
     <mxGraphModel dx="1725" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
             <mxPoint x="70" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Frx3Vn75q-I1JXAV17rQ-27" target="Frx3Vn75q-I1JXAV17rQ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Frx3Vn75q-I1JXAV17rQ-27" value="UI With:" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="430" width="120" height="80" as="geometry" />
         </mxCell>
@@ -88,8 +91,19 @@
         <mxCell id="Frx3Vn75q-I1JXAV17rQ-30" value="Bootstrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Frx3Vn75q-I1JXAV17rQ-33" value="SASS For Customize" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-33" value="SASS For Customize" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-30" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Frx3Vn75q-I1JXAV17rQ-35" target="Frx3Vn75q-I1JXAV17rQ-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-35" value="With FireBase" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Frx3Vn75q-I1JXAV17rQ-39" value="Or JSON" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
