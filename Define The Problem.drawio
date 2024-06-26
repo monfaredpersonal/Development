@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T05:35:34.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ovp8n-sWjKHAgbu3_DO6" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T05:44:00.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="x-sKC1CzszrxKH5DpGNq" version="24.6.3" type="github">
   <diagram name="Page-1" id="5SNKsLbysYWergcB4wmt">
-    <mxGraphModel dx="5050" dy="2500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3475" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,6 +52,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-820" y="100" />
+              <mxPoint x="-820" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CsfzDS7rC8Vhfh0QtivE-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-780" y="90" as="sourcePoint" />
+            <mxPoint x="-690" y="984.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-780" y="100" />
+              <mxPoint x="-820" y="100" />
+              <mxPoint x="-820" y="970" />
+              <mxPoint x="-690" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-820" y="100" />
+              <mxPoint x="-820" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OHrHpoTmUgVJHuhry7Nh-24" value="Define The Problem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-780" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -75,6 +103,27 @@
         </mxCell>
         <mxCell id="rxtz69P8wb6edzGFMLfV-1" value="&lt;li&gt;&lt;h3&gt;نقشه یادگیری طراحی و تحلیل الگوریتم‌ها&lt;/h3&gt;&lt;h4&gt;مقدماتی (Basic Level)&lt;/h4&gt;&lt;p&gt;این بخش شامل مبانی، مفاهیم اولیه و تمرینات ساده برای درک اولیه موضوعات مختلف طراحی و تحلیل الگوریتم‌ها است.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;مبانی طراحی الگوریتم (Fundamentals of Algorithm Design)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تعریف الگوریتم&lt;/li&gt;&lt;li&gt;ویژگی‌های الگوریتم (صحیح بودن، کارایی، سادگی و مقیاس‌پذیری)&lt;/li&gt;&lt;li&gt;نوشتن شبه‌کد (Pseudocode)&lt;/li&gt;&lt;li&gt;تمرینات ساده: نوشتن الگوریتم‌های پایه مثل جمع اعداد، پیدا کردن حداکثر و حداقل در یک آرایه&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تحلیل الگوریتم (Algorithm Analysis)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تعریف پیچیدگی زمانی و مکانی (Time and Space Complexity)&lt;/li&gt;&lt;li&gt;مرتبه‌های رشد (Big O, Big Ω, Big Θ)&lt;/li&gt;&lt;li&gt;تمرینات ساده: تحلیل پیچیدگی الگوریتم‌های پایه&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های بازگشتی (Recursive Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تعریف و مبانی بازگشت&lt;/li&gt;&lt;li&gt;تحلیل الگوریتم‌های بازگشتی&lt;/li&gt;&lt;li&gt;تمرینات ساده: الگوریتم فاکتوریل، دنباله فیبوناچی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ساختارهای داده‌ای و الگوریتم‌ها (Data Structures and Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;لیست‌ها، پشته‌ها و صف‌ها&lt;/li&gt;&lt;li&gt;درخت‌های جستجوی دودویی (Binary Search Trees)&lt;/li&gt;&lt;li&gt;تمرینات ساده: پیاده‌سازی لیست پیوندی، پشته و صف&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;متوسط (Intermediate Level)&lt;/h4&gt;&lt;p&gt;این بخش شامل مفاهیم پیشرفته‌تر و تمرینات چالش‌برانگیزتر است.&lt;/p&gt;&lt;ol start=&quot;5&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های تقسیم و حل (Divide and Conquer Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفاهیم و مبانی&lt;/li&gt;&lt;li&gt;مثال‌ها: مرتب‌سازی ادغامی (Merge Sort)، مرتب‌سازی سریع (Quick Sort)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی Merge Sort و Quick Sort&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;برنامه‌ریزی پویا (Dynamic Programming)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفاهیم و مبانی&lt;/li&gt;&lt;li&gt;مثال‌ها: مسئله کوله‌پشتی (Knapsack Problem)، بلندترین زیر دنباله مشترک (Longest Common Subsequence)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های معروف برنامه‌ریزی پویا&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های حریصانه (Greedy Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفاهیم و مبانی&lt;/li&gt;&lt;li&gt;مثال‌ها: مسئله مجموعه پوشا (Set Cover Problem)، مسئله کوله‌پشتی حریصانه (Greedy Knapsack)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های حریصانه معروف&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های جستجو (Search Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;جستجوی ترتیبی (Linear Search)&lt;/li&gt;&lt;li&gt;جستجوی دودویی (Binary Search)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی Linear Search و Binary Search&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های مرتب‌سازی (Sorting Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مرتب‌سازی حبابی (Bubble Sort)&lt;/li&gt;&lt;li&gt;مرتب‌سازی انتخابی (Selection Sort)&lt;/li&gt;&lt;li&gt;مرتب‌سازی درجی (Insertion Sort)&lt;/li&gt;&lt;li&gt;مرتب‌سازی پشته‌ای (Heap Sort)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های مختلف مرتب‌سازی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های گراف (Graph Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;جستجوی عمقی (Depth-First Search, DFS)&lt;/li&gt;&lt;li&gt;جستجوی سطحی (Breadth-First Search, BFS)&lt;/li&gt;&lt;li&gt;الگوریتم دایکسترا (Dijkstra&#39;s Algorithm)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی DFS، BFS و الگوریتم دایکسترا&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;پیشرفته (Advanced Level)&lt;/h4&gt;&lt;p&gt;این بخش شامل مفاهیم پیچیده‌تر و تمرینات واقعی برای تسلط کامل بر طراحی و تحلیل الگوریتم‌ها است.&lt;/p&gt;&lt;ol start=&quot;11&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های تطابق الگو (Pattern Matching Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;الگوریتم کارپ-رابین (Karp-Rabin Algorithm)&lt;/li&gt;&lt;li&gt;الگوریتم کِمپ-موریس-پرات (Knuth-Morris-Pratt, KMP Algorithm)&lt;/li&gt;&lt;li&gt;الگوریتم بویِر-مور (Boyer-Moore Algorithm)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های تطابق الگو&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های هندسی (Geometric Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تقسیم و غلبه در هندسه&lt;/li&gt;&lt;li&gt;مسئله نزدیک‌ترین جفت (Closest Pair Problem)&lt;/li&gt;&lt;li&gt;مسئله پوسته محدب (Convex Hull Problem)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های هندسی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های بهینه‌سازی (Optimization Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;برنامه‌ریزی خطی (Linear Programming)&lt;/li&gt;&lt;li&gt;الگوریتم سیمپلکس (Simplex Algorithm)&lt;/li&gt;&lt;li&gt;تمرینات: مسائل بهینه‌سازی و پیاده‌سازی الگوریتم‌های مربوطه&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های موازی و توزیعی (Parallel and Distributed Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;الگوریتم‌های همزمانی (Concurrency Algorithms)&lt;/li&gt;&lt;li&gt;الگوریتم‌های توزیعی (Distributed Algorithms)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های همزمانی و توزیعی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;مسائل NP-کامل (NP-Complete Problems)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفهوم پیچیدگی NP&lt;/li&gt;&lt;li&gt;مسائل معروف مانند مسئله فروشنده دوره‌گرد (Travelling Salesman Problem)، مسئله SAT (Satisfiability Problem)&lt;/li&gt;&lt;li&gt;تمرینات: تحلیل مسائل NP-کامل و بررسی راه‌حل‌های تقریبی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های احتمالی و تصادفی (Probabilistic and Randomized Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفاهیم و مبانی&lt;/li&gt;&lt;li&gt;مثال‌ها و کاربردها&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های احتمالی و تصادفی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های فراابتکاری (Metaheuristic Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;الگوریتم ژنتیک (Genetic Algorithms)&lt;/li&gt;&lt;li&gt;الگوریتم شبیه‌سازی تبرید (Simulated Annealing)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های فراابتکاری و بهینه‌سازی مسائل پیچیده&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="30" width="420" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-1" value="Resource Used" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-3" value="Time Constraints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-4" value="Financial Constraints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-5" value="Complexities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-820" y="100" />
+              <mxPoint x="-820" y="1160" />
+              <mxPoint x="-690" y="1160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
