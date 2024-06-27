@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T14:55:30.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xo_o01J93WmL-H72Gq-D" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T14:58:40.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bkYnsLG91PmDjShi3UKf" version="24.6.3" type="github">
   <diagram name="Page-1" id="LG2aejodbbx1wu4bJTzq">
-    <mxGraphModel dx="6875" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6350" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1029,11 +1029,6 @@
             <mxGeometry x="300" y="2390" width="560" height="680" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست واحد (Unit Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Jest&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Jest یک فریمورک تست واحد برای جاوااسکریپت است که از طرف Facebook توسعه داده شده است. این فریمورک بسیار محبوب و گسترده استفاده می‌شود به دلیل قابلیت‌های کامل تست‌نویسی و امکاناتی مانند mocking و assertion های متقدم.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Mocking و Stubbing&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ابزار پیشنهادی&lt;/strong&gt;: Sinon.js&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Sinon.js یک کتابخانه مستقل برای موک‌کردن، استاب‌کردن و spying در تست‌های جاوااسکریپت است. این ابزار قدرتمند است و از جمله ابزارهای پراستفاده برای تست‌نویسی واحد است.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Hooks در تست‌ها&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Mocha (با استفاده از &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, &lt;code&gt;afterEach&lt;/code&gt;)&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Mocha یک فریمورک تست بسیار انعطاف‌پذیر و پراستفاده برای جاوااسکریپت است که از hooks مانند &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, &lt;code&gt;afterEach&lt;/code&gt; برای تنظیمات قبل و بعد از اجرای تست‌ها پشتیبانی می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست ادغام (Integration Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Cypress&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Cypress یک فریمورک تست ادغام قدرتمند برای تست وب‌اپلیکیشن‌ها است که با استفاده از آن می‌توانید تست‌هایی را اجرا کنید که نیازمند تعامل با برنامه و رابط‌های کاربری هستند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست کارکردی (Functional Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Selenium&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Selenium یک ابزار معروف برای تست اتوماتیک وب‌اپلیکیشن‌ها است که امکان کنترل مرورگرهای مختلف و اجرای تست‌های کارکردی را فراهم می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست پذیرش (Acceptance Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Cucumber&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Cucumber یک ابزار برای ایجاد و اجرای تست‌های پذیرش است که از زبان طبیعی برای توصیف نیازمندی‌ها و تست‌های آن استفاده می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست بازگشتی (Regression Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Jest (یا Mocha)&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Jest به عنوان یک فریمورک چندمنظوره می‌تواند برای تست‌های بازگشتی هم استفاده شود که از طریق آن می‌توانید تأکید کنید که تغییرات اخیر چه تأثیری بر روی سیستم داشته‌اند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست بار (Load Testing) و تست استرس (Stress Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ابزار پیشنهادی&lt;/strong&gt;: Apache JMeter&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Apache JMeter یک ابزار قدرتمند برای اجرای تست‌های بار و استرس برای ارزیابی عملکرد و پایداری نرم‌افزار تحت شرایط مختلف است.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" link="&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست واحد (Unit Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Jest&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Jest یک فریمورک تست واحد برای جاوااسکریپت است که از طرف Facebook توسعه داده شده است. این فریمورک بسیار محبوب و گسترده استفاده می‌شود به دلیل قابلیت‌های کامل تست‌نویسی و امکاناتی مانند mocking و assertion های متقدم.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Mocking و Stubbing&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ابزار پیشنهادی&lt;/strong&gt;: Sinon.js&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Sinon.js یک کتابخانه مستقل برای موک‌کردن، استاب‌کردن و spying در تست‌های جاوااسکریپت است. این ابزار قدرتمند است و از جمله ابزارهای پراستفاده برای تست‌نویسی واحد است.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Hooks در تست‌ها&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Mocha (با استفاده از &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, &lt;code&gt;afterEach&lt;/code&gt;)&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Mocha یک فریمورک تست بسیار انعطاف‌پذیر و پراستفاده برای جاوااسکریپت است که از hooks مانند &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, &lt;code&gt;afterEach&lt;/code&gt; برای تنظیمات قبل و بعد از اجرای تست‌ها پشتیبانی می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست ادغام (Integration Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Cypress&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Cypress یک فریمورک تست ادغام قدرتمند برای تست وب‌اپلیکیشن‌ها است که با استفاده از آن می‌توانید تست‌هایی را اجرا کنید که نیازمند تعامل با برنامه و رابط‌های کاربری هستند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست کارکردی (Functional Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Selenium&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Selenium یک ابزار معروف برای تست اتوماتیک وب‌اپلیکیشن‌ها است که امکان کنترل مرورگرهای مختلف و اجرای تست‌های کارکردی را فراهم می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست پذیرش (Acceptance Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Cucumber&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Cucumber یک ابزار برای ایجاد و اجرای تست‌های پذیرش است که از زبان طبیعی برای توصیف نیازمندی‌ها و تست‌های آن استفاده می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست بازگشتی (Regression Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Jest (یا Mocha)&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Jest به عنوان یک فریمورک چندمنظوره می‌تواند برای تست‌های بازگشتی هم استفاده شود که از طریق آن می‌توانید تأکید کنید که تغییرات اخیر چه تأثیری بر روی سیستم داشته‌اند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست بار (Load Testing) و تست استرس (Stress Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ابزار پیشنهادی&lt;/strong&gt;: Apache JMeter&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Apache JMeter یک ابزار قدرتمند برای اجرای تست‌های بار و استرس برای ارزیابی عملکرد و پایداری نرم‌افزار تحت شرایط مختلف است.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" id="21lJ2NOi-cD1stFfHJMY-2">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1070" y="2230" width="560" height="920" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-3" target="21lJ2NOi-cD1stFfHJMY-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2400" y="2480" as="targetPoint" />
@@ -1047,12 +1042,22 @@
             <mxPoint x="2400" y="2560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-5" target="21lJ2NOi-cD1stFfHJMY-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2260" y="2360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-5" value="Unit-test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2340" y="2330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-7" target="21lJ2NOi-cD1stFfHJMY-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2400" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-7" target="21lJ2NOi-cD1stFfHJMY-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2280" y="2470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-7" value="Mocking &amp;amp; Stubbing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1063,12 +1068,25 @@
             <mxPoint x="2400" y="2710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-9" target="21lJ2NOi-cD1stFfHJMY-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2110" y="2570" />
+              <mxPoint x="2110" y="2360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-9" value="Hooks On Tests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2340" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-11" target="21lJ2NOi-cD1stFfHJMY-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2400" y="2790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-11" target="21lJ2NOi-cD1stFfHJMY-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2290" y="2670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;Integration Testing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1079,12 +1097,22 @@
             <mxPoint x="2400" y="2860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-13" target="21lJ2NOi-cD1stFfHJMY-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2290" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-13" value="Functional Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2340" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-15" target="21lJ2NOi-cD1stFfHJMY-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2400" y="2920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-15" target="21lJ2NOi-cD1stFfHJMY-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2290" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-15" value="Acceptance Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1095,6 +1123,14 @@
             <mxPoint x="2390" y="2990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-17" target="21lJ2NOi-cD1stFfHJMY-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2110" y="2970" />
+              <mxPoint x="2110" y="2360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-17" value="Regression Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2340" y="2940" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1103,11 +1139,37 @@
             <mxPoint x="2400" y="3060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-19" target="21lJ2NOi-cD1stFfHJMY-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2260" y="3080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-19" value="Load Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2340" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-21" target="21lJ2NOi-cD1stFfHJMY-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="21lJ2NOi-cD1stFfHJMY-21" value="Stress Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2340" y="3150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-23" value="Jest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-26" value="Sinon.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-29" value="Cypress" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-31" value="Selenium" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-33" value="Cucumber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="2850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-36" value="Apache JMeter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
