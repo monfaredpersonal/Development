@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T12:37:07.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-5NyhQLEonYVQSbLj9HR" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T13:21:23.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MbA-syhA_3Yi_e4gG3PV" version="24.6.3" type="github">
   <diagram name="Page-1" id="5SNKsLbysYWergcB4wmt">
-    <mxGraphModel dx="3028" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5900" dy="2500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-1">
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-820" y="100" />
@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="CsfzDS7rC8Vhfh0QtivE-3">
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="CsfzDS7rC8Vhfh0QtivE-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-780" y="90" as="sourcePoint" />
             <mxPoint x="-690" y="984.9999999999998" as="targetPoint" />
@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-4">
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-820" y="100" />
@@ -104,19 +104,19 @@
         <mxCell id="rxtz69P8wb6edzGFMLfV-1" value="&lt;li&gt;&lt;h3&gt;نقشه یادگیری طراحی و تحلیل الگوریتم‌ها&lt;/h3&gt;&lt;h4&gt;مقدماتی (Basic Level)&lt;/h4&gt;&lt;p&gt;این بخش شامل مبانی، مفاهیم اولیه و تمرینات ساده برای درک اولیه موضوعات مختلف طراحی و تحلیل الگوریتم‌ها است.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;مبانی طراحی الگوریتم (Fundamentals of Algorithm Design)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تعریف الگوریتم&lt;/li&gt;&lt;li&gt;ویژگی‌های الگوریتم (صحیح بودن، کارایی، سادگی و مقیاس‌پذیری)&lt;/li&gt;&lt;li&gt;نوشتن شبه‌کد (Pseudocode)&lt;/li&gt;&lt;li&gt;تمرینات ساده: نوشتن الگوریتم‌های پایه مثل جمع اعداد، پیدا کردن حداکثر و حداقل در یک آرایه&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تحلیل الگوریتم (Algorithm Analysis)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تعریف پیچیدگی زمانی و مکانی (Time and Space Complexity)&lt;/li&gt;&lt;li&gt;مرتبه‌های رشد (Big O, Big Ω, Big Θ)&lt;/li&gt;&lt;li&gt;تمرینات ساده: تحلیل پیچیدگی الگوریتم‌های پایه&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های بازگشتی (Recursive Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تعریف و مبانی بازگشت&lt;/li&gt;&lt;li&gt;تحلیل الگوریتم‌های بازگشتی&lt;/li&gt;&lt;li&gt;تمرینات ساده: الگوریتم فاکتوریل، دنباله فیبوناچی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ساختارهای داده‌ای و الگوریتم‌ها (Data Structures and Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;لیست‌ها، پشته‌ها و صف‌ها&lt;/li&gt;&lt;li&gt;درخت‌های جستجوی دودویی (Binary Search Trees)&lt;/li&gt;&lt;li&gt;تمرینات ساده: پیاده‌سازی لیست پیوندی، پشته و صف&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;متوسط (Intermediate Level)&lt;/h4&gt;&lt;p&gt;این بخش شامل مفاهیم پیشرفته‌تر و تمرینات چالش‌برانگیزتر است.&lt;/p&gt;&lt;ol start=&quot;5&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های تقسیم و حل (Divide and Conquer Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفاهیم و مبانی&lt;/li&gt;&lt;li&gt;مثال‌ها: مرتب‌سازی ادغامی (Merge Sort)، مرتب‌سازی سریع (Quick Sort)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی Merge Sort و Quick Sort&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;برنامه‌ریزی پویا (Dynamic Programming)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفاهیم و مبانی&lt;/li&gt;&lt;li&gt;مثال‌ها: مسئله کوله‌پشتی (Knapsack Problem)، بلندترین زیر دنباله مشترک (Longest Common Subsequence)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های معروف برنامه‌ریزی پویا&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های حریصانه (Greedy Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفاهیم و مبانی&lt;/li&gt;&lt;li&gt;مثال‌ها: مسئله مجموعه پوشا (Set Cover Problem)، مسئله کوله‌پشتی حریصانه (Greedy Knapsack)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های حریصانه معروف&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های جستجو (Search Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;جستجوی ترتیبی (Linear Search)&lt;/li&gt;&lt;li&gt;جستجوی دودویی (Binary Search)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی Linear Search و Binary Search&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های مرتب‌سازی (Sorting Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مرتب‌سازی حبابی (Bubble Sort)&lt;/li&gt;&lt;li&gt;مرتب‌سازی انتخابی (Selection Sort)&lt;/li&gt;&lt;li&gt;مرتب‌سازی درجی (Insertion Sort)&lt;/li&gt;&lt;li&gt;مرتب‌سازی پشته‌ای (Heap Sort)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های مختلف مرتب‌سازی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های گراف (Graph Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;جستجوی عمقی (Depth-First Search, DFS)&lt;/li&gt;&lt;li&gt;جستجوی سطحی (Breadth-First Search, BFS)&lt;/li&gt;&lt;li&gt;الگوریتم دایکسترا (Dijkstra&#39;s Algorithm)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی DFS، BFS و الگوریتم دایکسترا&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h4&gt;پیشرفته (Advanced Level)&lt;/h4&gt;&lt;p&gt;این بخش شامل مفاهیم پیچیده‌تر و تمرینات واقعی برای تسلط کامل بر طراحی و تحلیل الگوریتم‌ها است.&lt;/p&gt;&lt;ol start=&quot;11&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های تطابق الگو (Pattern Matching Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;الگوریتم کارپ-رابین (Karp-Rabin Algorithm)&lt;/li&gt;&lt;li&gt;الگوریتم کِمپ-موریس-پرات (Knuth-Morris-Pratt, KMP Algorithm)&lt;/li&gt;&lt;li&gt;الگوریتم بویِر-مور (Boyer-Moore Algorithm)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های تطابق الگو&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های هندسی (Geometric Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تقسیم و غلبه در هندسه&lt;/li&gt;&lt;li&gt;مسئله نزدیک‌ترین جفت (Closest Pair Problem)&lt;/li&gt;&lt;li&gt;مسئله پوسته محدب (Convex Hull Problem)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های هندسی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های بهینه‌سازی (Optimization Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;برنامه‌ریزی خطی (Linear Programming)&lt;/li&gt;&lt;li&gt;الگوریتم سیمپلکس (Simplex Algorithm)&lt;/li&gt;&lt;li&gt;تمرینات: مسائل بهینه‌سازی و پیاده‌سازی الگوریتم‌های مربوطه&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های موازی و توزیعی (Parallel and Distributed Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;الگوریتم‌های همزمانی (Concurrency Algorithms)&lt;/li&gt;&lt;li&gt;الگوریتم‌های توزیعی (Distributed Algorithms)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های همزمانی و توزیعی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;مسائل NP-کامل (NP-Complete Problems)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفهوم پیچیدگی NP&lt;/li&gt;&lt;li&gt;مسائل معروف مانند مسئله فروشنده دوره‌گرد (Travelling Salesman Problem)، مسئله SAT (Satisfiability Problem)&lt;/li&gt;&lt;li&gt;تمرینات: تحلیل مسائل NP-کامل و بررسی راه‌حل‌های تقریبی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های احتمالی و تصادفی (Probabilistic and Randomized Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مفاهیم و مبانی&lt;/li&gt;&lt;li&gt;مثال‌ها و کاربردها&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های احتمالی و تصادفی&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;الگوریتم‌های فراابتکاری (Metaheuristic Algorithms)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;الگوریتم ژنتیک (Genetic Algorithms)&lt;/li&gt;&lt;li&gt;الگوریتم شبیه‌سازی تبرید (Simulated Annealing)&lt;/li&gt;&lt;li&gt;تمرینات: پیاده‌سازی الگوریتم‌های فراابتکاری و بهینه‌سازی مسائل پیچیده&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="30" width="420" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-1" value="Resource Used" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-1" value="Resource Used" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-690" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-3" value="Time Constraints" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-3" value="Time Constraints" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-690" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-4" value="Financial Constraints" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-4" value="Financial Constraints" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-690" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-5" value="Complexities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-5" value="Complexities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-690" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-5">
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="OHrHpoTmUgVJHuhry7Nh-24" target="CsfzDS7rC8Vhfh0QtivE-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-820" y="100" />
@@ -125,96 +125,154 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-11" target="CsfzDS7rC8Vhfh0QtivE-16">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-11" target="P1VVhnqykyTQNzMpHX3s-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-11" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="2830" width="120" height="60" as="geometry" />
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-11" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="2465" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-12" value="End" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="3520" width="120" height="60" as="geometry" />
+        <mxCell id="CsfzDS7rC8Vhfh0QtivE-12" value="End" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1015" y="3310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-13" target="CsfzDS7rC8Vhfh0QtivE-20">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-2" value="الگوریتم جمع اعداد داخل آرایه" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="2385" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-5" target="P1VVhnqykyTQNzMpHX3s-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-5" value="Inputs:&lt;div&gt;اعداد را دریافت کن&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="2585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-7" target="P1VVhnqykyTQNzMpHX3s-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-380" y="3100" as="targetPoint" />
+            <mxPoint x="-10" y="2630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-13" value="Inputs:A List Of numbers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="2980" width="120" height="60" as="geometry" />
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-7" value="Statement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-16" target="CsfzDS7rC8Vhfh0QtivE-13">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-9" value="&amp;nbsp;یک برنامه طراحی کنید که یک لیست از اعداد را دریافت کند ، همه آن ها را با هم جمع بزند&amp;nbsp; و مقدار به دست امده را نمایش دهد&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=37;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2590" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-11" target="P1VVhnqykyTQNzMpHX3s-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-16" value="Create A Function For Find Max" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="2980" width="120" height="60" as="geometry" />
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-11" value="inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-20" target="CsfzDS7rC8Vhfh0QtivE-22">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-12" value="لیستی از اعداد" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2730" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-14" target="P1VVhnqykyTQNzMpHX3s-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-20" value="Define Variables:&lt;div&gt;max &amp;amp; a&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="3090" width="80" height="80" as="geometry" />
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-14" value="Outputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-22" target="CsfzDS7rC8Vhfh0QtivE-25">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-15" value="یک عدد" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="2850" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-17" value="Constraints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-20" target="P1VVhnqykyTQNzMpHX3s-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-22" value="loop on list with a =&amp;gt; var&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="3090" width="80" height="80" as="geometry" />
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-20" value="Objective&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="3090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-25" target="CsfzDS7rC8Vhfh0QtivE-33">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-21" value="طول برنامه کمتر از 10 خط خواهد بود" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="3090" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-23" target="P1VVhnqykyTQNzMpHX3s-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-890" y="3130" as="targetPoint" />
+            <mxPoint x="40" y="3230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-25" target="CsfzDS7rC8Vhfh0QtivE-39">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-23" value="Resources" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="3200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-25" value="یک ورودی برای دریافت اعداد" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="3200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-26" target="P1VVhnqykyTQNzMpHX3s-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="3340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-26" value="Time Constraints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="3310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-28" value="کمتر از یک میلی ثانیه" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-29" value="Financial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="3420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-30" value="Complexities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="3530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-35" target="CsfzDS7rC8Vhfh0QtivE-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-25" value="if a &amp;gt; max" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="3100" width="120" height="60" as="geometry" />
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-35" value="OutPut:&lt;div&gt;sum&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1015" y="3140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-30" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="3098" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-33" target="CsfzDS7rC8Vhfh0QtivE-39">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-37" target="P1VVhnqykyTQNzMpHX3s-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-33" value="max = a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="3100" width="120" height="60" as="geometry" />
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-37" value="ایجاد تابع&lt;div&gt;Sum&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="2705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-35" target="CsfzDS7rC8Vhfh0QtivE-22">
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-49" target="P1VVhnqykyTQNzMpHX3s-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-700" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-49" value="loop on Array" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="2815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-72" target="P1VVhnqykyTQNzMpHX3s-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-880" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-72" value="i = 0&lt;div&gt;sum=0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="2960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-74" target="P1VVhnqykyTQNzMpHX3s-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-955" y="3120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-81" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P1VVhnqykyTQNzMpHX3s-75">
+          <mxGeometry x="-0.1048" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-74" target="P1VVhnqykyTQNzMpHX3s-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1160" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-79" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P1VVhnqykyTQNzMpHX3s-76">
+          <mxGeometry x="0.0464" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-74" value="if Array[i] == Array.length&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="2960" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1VVhnqykyTQNzMpHX3s-77" target="P1VVhnqykyTQNzMpHX3s-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-540" y="3220" />
+              <mxPoint x="-1200" y="2900" />
+              <mxPoint x="-955" y="2900" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-35" value="go next number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="3250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-36" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="3190" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-39" target="CsfzDS7rC8Vhfh0QtivE-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-39" target="CsfzDS7rC8Vhfh0QtivE-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-920" y="3420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-39" value="if a[index] === length of List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="3250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-43" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="3250" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsfzDS7rC8Vhfh0QtivE-45" target="CsfzDS7rC8Vhfh0QtivE-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-45" value="Outputs:&lt;div&gt;Max number = Max&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="3390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CsfzDS7rC8Vhfh0QtivE-47" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="3330" width="40" height="30" as="geometry" />
+        <mxCell id="P1VVhnqykyTQNzMpHX3s-77" value="sum =Array[i] + sum&lt;div&gt;i++&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
