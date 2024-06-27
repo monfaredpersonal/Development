@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T13:59:39.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L3hIpR323nuaQ-T7QEZ1" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T14:55:30.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xo_o01J93WmL-H72Gq-D" version="24.6.3" type="github">
   <diagram name="Page-1" id="LG2aejodbbx1wu4bJTzq">
-    <mxGraphModel dx="5058" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6875" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z8JezbtAQ2rlnTOmX2S_-1" value="Secondary Course&lt;div&gt;30 Min&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="39.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8JezbtAQ2rlnTOmX2S_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z8JezbtAQ2rlnTOmX2S_-2" target="z8JezbtAQ2rlnTOmX2S_-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -790,239 +790,324 @@
         <mxCell id="D5FOLxycE-m-Bip8Cx6Z-10" value="Implementation&lt;div&gt;Context&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-2340" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-2" target="BdbDkMUWxIickjyTrgPw-4">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-2" target="BdbDkMUWxIickjyTrgPw-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2390" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-2" value="مقدماتی&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-2" value="مقدماتی&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-4" target="BdbDkMUWxIickjyTrgPw-6">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-4" target="BdbDkMUWxIickjyTrgPw-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2390" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-4" value="ساختار پروژه" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-4" value="ساختار پروژه" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-6" target="BdbDkMUWxIickjyTrgPw-8">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-6" target="BdbDkMUWxIickjyTrgPw-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2390" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-6" value="Browser Router&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Hash Router&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-6" value="Browser Router&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Hash Router&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-8" target="BdbDkMUWxIickjyTrgPw-10">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-8" target="BdbDkMUWxIickjyTrgPw-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2390" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-8" value="Route&amp;amp;Routes&amp;amp;Switch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-8" value="Route&amp;amp;Routes&amp;amp;Switch" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2310" y="1310" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-10" target="BdbDkMUWxIickjyTrgPw-12">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-10" target="BdbDkMUWxIickjyTrgPw-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2390" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-10" value="Link &amp;amp; NavLink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-10" value="Link &amp;amp; NavLink" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-12" target="BdbDkMUWxIickjyTrgPw-14">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-12" target="BdbDkMUWxIickjyTrgPw-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2390" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-12" value="useNavigate&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;useHistory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-12" value="useNavigate&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;useHistory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-14" target="BdbDkMUWxIickjyTrgPw-16">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-14" target="BdbDkMUWxIickjyTrgPw-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2390" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-14" value="URL Parameters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-14" value="URL Parameters" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-16" value="useParams" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-16" value="useParams" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-17" target="BdbDkMUWxIickjyTrgPw-19">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-17" target="BdbDkMUWxIickjyTrgPw-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-17" value="سطح متوسط" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-17" value="سطح متوسط" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-19" target="BdbDkMUWxIickjyTrgPw-21">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-19" target="BdbDkMUWxIickjyTrgPw-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-19" value="Nested Routes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-19" value="Nested Routes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-21" target="BdbDkMUWxIickjyTrgPw-23">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-21" target="BdbDkMUWxIickjyTrgPw-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-21" value="Outlet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-21" value="Outlet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-23" target="BdbDkMUWxIickjyTrgPw-25">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-23" target="BdbDkMUWxIickjyTrgPw-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-23" value="Redirect &amp;amp; useNavigate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-23" value="Redirect &amp;amp; useNavigate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-25" target="BdbDkMUWxIickjyTrgPw-27">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-25" target="BdbDkMUWxIickjyTrgPw-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-25" value="Private Routes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-25" value="Private Routes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-27" target="BdbDkMUWxIickjyTrgPw-29">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-27" target="BdbDkMUWxIickjyTrgPw-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-27" value="Conditional Routing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-27" value="Conditional Routing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-29" target="BdbDkMUWxIickjyTrgPw-31">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-29" target="BdbDkMUWxIickjyTrgPw-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-29" value="Data Fetching" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-29" value="Data Fetching" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-31" target="BdbDkMUWxIickjyTrgPw-33">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-31" target="BdbDkMUWxIickjyTrgPw-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-31" value="useLoaderData" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-31" value="useLoaderData" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-33" target="BdbDkMUWxIickjyTrgPw-35">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-33" target="BdbDkMUWxIickjyTrgPw-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-33" value="useLocation &amp;amp;&amp;nbsp;&lt;div&gt;useMatch&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-33" value="useLocation &amp;amp;&amp;nbsp;&lt;div&gt;useMatch&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-35" target="BdbDkMUWxIickjyTrgPw-36">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BdbDkMUWxIickjyTrgPw-35" target="BdbDkMUWxIickjyTrgPw-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-35" value="createBrowserHistory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-35" value="createBrowserHistory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2100" y="1870" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-36" target="BdbDkMUWxIickjyTrgPw-39">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-36" target="BdbDkMUWxIickjyTrgPw-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2170" y="2100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-36" value="createBrowserHistory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-36" value="createBrowserHistory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2100" y="1980" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-39" value="createMemoryHistory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-39" value="createMemoryHistory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-40" target="BdbDkMUWxIickjyTrgPw-42">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-40" target="BdbDkMUWxIickjyTrgPw-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1990" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-40" value="پیشرفته" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-40" value="پیشرفته" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-42" target="BdbDkMUWxIickjyTrgPw-44">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-42" target="BdbDkMUWxIickjyTrgPw-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1990" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-42" value="Suspense" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-42" value="Suspense" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-44" target="BdbDkMUWxIickjyTrgPw-46">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-44" target="BdbDkMUWxIickjyTrgPw-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1990" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-44" value="React.lazy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-44" value="React.lazy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-46" target="BdbDkMUWxIickjyTrgPw-48">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-46" target="BdbDkMUWxIickjyTrgPw-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1990" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-46" value="Code Splitting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-46" value="Code Splitting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-48" target="BdbDkMUWxIickjyTrgPw-50">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-48" target="BdbDkMUWxIickjyTrgPw-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1990" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-48" value="Flexible Routing Patterns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-48" value="Flexible Routing Patterns" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-50" target="BdbDkMUWxIickjyTrgPw-52">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-50" target="BdbDkMUWxIickjyTrgPw-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1990" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-50" value="matchPath &amp;amp;&amp;nbsp;&lt;div&gt;geratePath&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-50" value="matchPath &amp;amp;&amp;nbsp;&lt;div&gt;geratePath&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-52" target="BdbDkMUWxIickjyTrgPw-54">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-52" target="BdbDkMUWxIickjyTrgPw-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1990" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-52" value="useTransition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-52" value="useTransition" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-54" value="react-transition-group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-54" value="react-transition-group" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-57" target="BdbDkMUWxIickjyTrgPw-59">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-57" target="BdbDkMUWxIickjyTrgPw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1785" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-57" value="جانبی" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-57" value="جانبی" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1735" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-59" target="BdbDkMUWxIickjyTrgPw-61">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-59" target="BdbDkMUWxIickjyTrgPw-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1795" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-59" value="react-router-config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-59" value="react-router-config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1735" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BdbDkMUWxIickjyTrgPw-61" target="BdbDkMUWxIickjyTrgPw-63">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BdbDkMUWxIickjyTrgPw-61" target="BdbDkMUWxIickjyTrgPw-63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1795" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-61" value="connected-react-router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-61" value="connected-react-router" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="1230" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BdbDkMUWxIickjyTrgPw-63" value="react-router-bootstrap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BdbDkMUWxIickjyTrgPw-63" value="react-router-bootstrap" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="1330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h3&gt;مقدماتی&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;نصب و تنظیم Mocha&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;نصب Mocha به عنوان یک وابستگی توسط npm یا yarn.&lt;/li&gt;&lt;li&gt;پیکربندی &lt;code&gt;package.json&lt;/code&gt; برای اجرای تست‌ها با Mocha.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ایجاد فایل‌های تست&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ساخت پوشه &lt;code&gt;test&lt;/code&gt; و ایجاد فایل‌های تست با پسوند &lt;code&gt;.test.js&lt;/code&gt; یا &lt;code&gt;.spec.js&lt;/code&gt;.&lt;/li&gt;&lt;li&gt;معرفی &lt;code&gt;describe&lt;/code&gt; و &lt;code&gt;it&lt;/code&gt; برای توصیف و ایجاد تست‌ها.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از مفاهیم assert&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از متد &lt;code&gt;assert.equal&lt;/code&gt; برای اعتبارسنجی نتایج.&lt;/li&gt;&lt;li&gt;آشنایی با سایر متدهای &lt;code&gt;assert&lt;/code&gt; برای بررسی موارد دیگر.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;متوسط&lt;/h3&gt;&lt;ol start=&quot;4&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Hooks در Mocha&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, و &lt;code&gt;afterEach&lt;/code&gt; برای تنظیمات قبل و بعد از اجرای تست‌ها.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Mocking و Stubbing&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;معرفی مفاهیم Mock و Stub برای تست‌های وابسته به اجزاء خارجی (external dependencies).&lt;/li&gt;&lt;li&gt;استفاده از کتابخانه‌های مثل &lt;code&gt;sinon&lt;/code&gt; برای ایجاد Mock و Stub.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ایجاد تست‌های Asynchronous&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از &lt;code&gt;done&lt;/code&gt; callback یا استفاده از &lt;code&gt;async/await&lt;/code&gt; برای مدیریت تست‌های ناهمگام.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;پیشرفته&lt;/h3&gt;&lt;ol start=&quot;7&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Custom Matchers&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ساخت و استفاده از Matcherهای سفارشی برای تست کردن موارد خاص.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;پوشش کد (Code Coverage)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از ابزارهای مانند &lt;code&gt;istanbul/nyc&lt;/code&gt; برای ارزیابی پوشش کد تست‌ها.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Plugins و Reporterها&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;نصب و استفاده از پلاگین‌های Mocha برای افزایش قابلیت‌های آن.&lt;/li&gt;&lt;li&gt;تنظیم Reporterها برای گزارشگری بهتر و خواناتر.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" link="&lt;h3&gt;مقدماتی&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;نصب و تنظیم Mocha&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;نصب Mocha به عنوان یک وابستگی توسط npm یا yarn.&lt;/li&gt;&lt;li&gt;پیکربندی &lt;code&gt;package.json&lt;/code&gt; برای اجرای تست‌ها با Mocha.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ایجاد فایل‌های تست&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ساخت پوشه &lt;code&gt;test&lt;/code&gt; و ایجاد فایل‌های تست با پسوند &lt;code&gt;.test.js&lt;/code&gt; یا &lt;code&gt;.spec.js&lt;/code&gt;.&lt;/li&gt;&lt;li&gt;معرفی &lt;code&gt;describe&lt;/code&gt; و &lt;code&gt;it&lt;/code&gt; برای توصیف و ایجاد تست‌ها.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از مفاهیم assert&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از متد &lt;code&gt;assert.equal&lt;/code&gt; برای اعتبارسنجی نتایج.&lt;/li&gt;&lt;li&gt;آشنایی با سایر متدهای &lt;code&gt;assert&lt;/code&gt; برای بررسی موارد دیگر.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;متوسط&lt;/h3&gt;&lt;ol start=&quot;4&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Hooks در Mocha&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, و &lt;code&gt;afterEach&lt;/code&gt; برای تنظیمات قبل و بعد از اجرای تست‌ها.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Mocking و Stubbing&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;معرفی مفاهیم Mock و Stub برای تست‌های وابسته به اجزاء خارجی (external dependencies).&lt;/li&gt;&lt;li&gt;استفاده از کتابخانه‌های مثل &lt;code&gt;sinon&lt;/code&gt; برای ایجاد Mock و Stub.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;ایجاد تست‌های Asynchronous&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از &lt;code&gt;done&lt;/code&gt; callback یا استفاده از &lt;code&gt;async/await&lt;/code&gt; برای مدیریت تست‌های ناهمگام.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;پیشرفته&lt;/h3&gt;&lt;ol start=&quot;7&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Custom Matchers&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ساخت و استفاده از Matcherهای سفارشی برای تست کردن موارد خاص.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;پوشش کد (Code Coverage)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از ابزارهای مانند &lt;code&gt;istanbul/nyc&lt;/code&gt; برای ارزیابی پوشش کد تست‌ها.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Plugins و Reporterها&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;نصب و استفاده از پلاگین‌های Mocha برای افزایش قابلیت‌های آن.&lt;/li&gt;&lt;li&gt;تنظیم Reporterها برای گزارشگری بهتر و خواناتر.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" id="21lJ2NOi-cD1stFfHJMY-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="300" y="2390" width="560" height="680" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست واحد (Unit Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Jest&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Jest یک فریمورک تست واحد برای جاوااسکریپت است که از طرف Facebook توسعه داده شده است. این فریمورک بسیار محبوب و گسترده استفاده می‌شود به دلیل قابلیت‌های کامل تست‌نویسی و امکاناتی مانند mocking و assertion های متقدم.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Mocking و Stubbing&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ابزار پیشنهادی&lt;/strong&gt;: Sinon.js&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Sinon.js یک کتابخانه مستقل برای موک‌کردن، استاب‌کردن و spying در تست‌های جاوااسکریپت است. این ابزار قدرتمند است و از جمله ابزارهای پراستفاده برای تست‌نویسی واحد است.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Hooks در تست‌ها&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Mocha (با استفاده از &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, &lt;code&gt;afterEach&lt;/code&gt;)&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Mocha یک فریمورک تست بسیار انعطاف‌پذیر و پراستفاده برای جاوااسکریپت است که از hooks مانند &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, &lt;code&gt;afterEach&lt;/code&gt; برای تنظیمات قبل و بعد از اجرای تست‌ها پشتیبانی می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست ادغام (Integration Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Cypress&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Cypress یک فریمورک تست ادغام قدرتمند برای تست وب‌اپلیکیشن‌ها است که با استفاده از آن می‌توانید تست‌هایی را اجرا کنید که نیازمند تعامل با برنامه و رابط‌های کاربری هستند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست کارکردی (Functional Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Selenium&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Selenium یک ابزار معروف برای تست اتوماتیک وب‌اپلیکیشن‌ها است که امکان کنترل مرورگرهای مختلف و اجرای تست‌های کارکردی را فراهم می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست پذیرش (Acceptance Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Cucumber&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Cucumber یک ابزار برای ایجاد و اجرای تست‌های پذیرش است که از زبان طبیعی برای توصیف نیازمندی‌ها و تست‌های آن استفاده می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست بازگشتی (Regression Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Jest (یا Mocha)&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Jest به عنوان یک فریمورک چندمنظوره می‌تواند برای تست‌های بازگشتی هم استفاده شود که از طریق آن می‌توانید تأکید کنید که تغییرات اخیر چه تأثیری بر روی سیستم داشته‌اند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست بار (Load Testing) و تست استرس (Stress Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ابزار پیشنهادی&lt;/strong&gt;: Apache JMeter&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Apache JMeter یک ابزار قدرتمند برای اجرای تست‌های بار و استرس برای ارزیابی عملکرد و پایداری نرم‌افزار تحت شرایط مختلف است.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" link="&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست واحد (Unit Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Jest&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Jest یک فریمورک تست واحد برای جاوااسکریپت است که از طرف Facebook توسعه داده شده است. این فریمورک بسیار محبوب و گسترده استفاده می‌شود به دلیل قابلیت‌های کامل تست‌نویسی و امکاناتی مانند mocking و assertion های متقدم.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Mocking و Stubbing&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ابزار پیشنهادی&lt;/strong&gt;: Sinon.js&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Sinon.js یک کتابخانه مستقل برای موک‌کردن، استاب‌کردن و spying در تست‌های جاوااسکریپت است. این ابزار قدرتمند است و از جمله ابزارهای پراستفاده برای تست‌نویسی واحد است.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;استفاده از Hooks در تست‌ها&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Mocha (با استفاده از &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, &lt;code&gt;afterEach&lt;/code&gt;)&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Mocha یک فریمورک تست بسیار انعطاف‌پذیر و پراستفاده برای جاوااسکریپت است که از hooks مانند &lt;code&gt;before&lt;/code&gt;, &lt;code&gt;after&lt;/code&gt;, &lt;code&gt;beforeEach&lt;/code&gt;, &lt;code&gt;afterEach&lt;/code&gt; برای تنظیمات قبل و بعد از اجرای تست‌ها پشتیبانی می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست ادغام (Integration Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Cypress&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Cypress یک فریمورک تست ادغام قدرتمند برای تست وب‌اپلیکیشن‌ها است که با استفاده از آن می‌توانید تست‌هایی را اجرا کنید که نیازمند تعامل با برنامه و رابط‌های کاربری هستند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست کارکردی (Functional Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Selenium&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Selenium یک ابزار معروف برای تست اتوماتیک وب‌اپلیکیشن‌ها است که امکان کنترل مرورگرهای مختلف و اجرای تست‌های کارکردی را فراهم می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست پذیرش (Acceptance Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Cucumber&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Cucumber یک ابزار برای ایجاد و اجرای تست‌های پذیرش است که از زبان طبیعی برای توصیف نیازمندی‌ها و تست‌های آن استفاده می‌کند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست بازگشتی (Regression Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;فریمورک پیشنهادی&lt;/strong&gt;: Jest (یا Mocha)&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Jest به عنوان یک فریمورک چندمنظوره می‌تواند برای تست‌های بازگشتی هم استفاده شود که از طریق آن می‌توانید تأکید کنید که تغییرات اخیر چه تأثیری بر روی سیستم داشته‌اند.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;تست بار (Load Testing) و تست استرس (Stress Testing)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ابزار پیشنهادی&lt;/strong&gt;: Apache JMeter&lt;ul&gt;&lt;li&gt;&lt;strong&gt;توضیحات&lt;/strong&gt;: Apache JMeter یک ابزار قدرتمند برای اجرای تست‌های بار و استرس برای ارزیابی عملکرد و پایداری نرم‌افزار تحت شرایط مختلف است.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" id="21lJ2NOi-cD1stFfHJMY-2">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1070" y="2230" width="560" height="920" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-3" target="21lJ2NOi-cD1stFfHJMY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-3" value="تست نویسی" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-5" target="21lJ2NOi-cD1stFfHJMY-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="2560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-5" value="Unit-test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-7" target="21lJ2NOi-cD1stFfHJMY-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-7" value="Mocking &amp;amp; Stubbing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-9" target="21lJ2NOi-cD1stFfHJMY-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="2710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-9" value="Hooks On Tests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="2540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-11" target="21lJ2NOi-cD1stFfHJMY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="2790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;Integration Testing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-13" target="21lJ2NOi-cD1stFfHJMY-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="2860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-13" value="Functional Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-15" target="21lJ2NOi-cD1stFfHJMY-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="2920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-15" value="Acceptance Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="2850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-17" target="21lJ2NOi-cD1stFfHJMY-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2390" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-17" value="Regression Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="2940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21lJ2NOi-cD1stFfHJMY-19" target="21lJ2NOi-cD1stFfHJMY-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2400" y="3060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-19" value="Load Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="3050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21lJ2NOi-cD1stFfHJMY-21" value="Stress Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="3150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
