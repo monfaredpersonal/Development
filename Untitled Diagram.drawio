@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T16:03:36.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bVABtghdkeUTu2PgycGN" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-02T16:26:09.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FJhnS2nwHyPg6AJFN_7x" version="24.6.4" type="github" pages="2">
   <diagram name="Page-1" id="LG2aejodbbx1wu4bJTzq">
-    <mxGraphModel dx="8133" dy="2943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6171" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1330,6 +1330,11 @@
             <mxPoint x="4000" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ruo-aolHrDqbmKhP3IMM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F6psuC4qCMFIqACGkimO-21" target="Ruo-aolHrDqbmKhP3IMM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4280" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F6psuC4qCMFIqACGkimO-21" value="Promise" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3940" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1580,6 +1585,14 @@
         </mxCell>
         <mxCell id="F6psuC4qCMFIqACGkimO-85" value=".finally()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3980" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ruo-aolHrDqbmKhP3IMM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ruo-aolHrDqbmKhP3IMM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4280" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ruo-aolHrDqbmKhP3IMM-2" value="Promise Chaining" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
