@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5" pages="2">
   <diagram name="Page-1" id="LG2aejodbbx1wu4bJTzq">
-    <mxGraphModel dx="11150" dy="8683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="9082" dy="7137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2695,10 +2695,166 @@
           <mxGeometry x="5326.5" y="-6345" width="147" height="50" as="geometry" />
         </mxCell>
         <UserObject label="&lt;li&gt;&lt;p&gt;&lt;strong&gt;مبانی REST:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تعریف REST (Representational State Transfer)&lt;/li&gt;&lt;li&gt;شش اصل معماری REST:&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Uniform Interface&lt;/strong&gt; (رابط یکپارچه)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Statelessness&lt;/strong&gt; (بی‌حالتی)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cacheable&lt;/strong&gt; (قابل کش شدن)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Client-Server&lt;/strong&gt; (کلاینت-سرور)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Layered System&lt;/strong&gt; (سیستم لایه‌ای)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Code on Demand&lt;/strong&gt; (کد به درخواست، اختیاری)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;HTTP Methods:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;GET&lt;/strong&gt; (دریافت اطلاعات)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;POST&lt;/strong&gt; (ارسال اطلاعات)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;PUT&lt;/strong&gt; (بروزرسانی/ایجاد)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;DELETE&lt;/strong&gt; (حذف)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;PATCH&lt;/strong&gt; (بروزرسانی جزئی)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;URI و URL:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ساختار و طراحی URI (Uniform Resource Identifier)&lt;/li&gt;&lt;li&gt;استفاده از منابع و نقاط انتهایی (Endpoints)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;HTTP Status Codes:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;کدهای وضعیت HTTP و معنای آن‌ها (200, 201, 204, 400, 401, 403, 404, 500 و غیره)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Headers:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;HTTP Headers (مانند Content-Type, Accept)&lt;/li&gt;&lt;li&gt;Authentication and Authorization Headers (مانند Authorization, Bearer Token)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Payloads:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;قالب‌های داده (JSON, XML)&lt;/li&gt;&lt;li&gt;انواع Content-Type و کاربردهای آن‌ها&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Versioning:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;روش‌های نسخه‌بندی API (URI Versioning, Query Parameter, Custom Headers)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Error Handling:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مدیریت خطاها و پاسخ‌های مناسب (Error Response Structure)&lt;/li&gt;&lt;li&gt;ارائه پیام‌های خطای مناسب&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rate Limiting:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;محدودیت تعداد درخواست‌ها (Rate Limiting)&lt;/li&gt;&lt;li&gt;سیاست‌های مختلف برای محدودیت نرخ درخواست‌ها&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Security:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;روش‌های امنیتی (HTTPS, Authentication, Authorization)&lt;/li&gt;&lt;li&gt;JWT (JSON Web Token)&lt;/li&gt;&lt;li&gt;OAuth 2.0&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Documentation:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مستندسازی API ها (استفاده از ابزارهایی مانند Swagger, OpenAPI)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;HATEOAS (Hypermedia as the Engine of Application State):&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از لینک‌ها در پاسخ‌ها برای هدایت کلاینت‌ها&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Testing:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تست API ها (ابزارهایی مانند Postman, Insomnia)&lt;/li&gt;&lt;li&gt;نوشتن تست‌های خودکار برای API ها (مانند استفاده از ابزارهایی مثل Jest, Mocha برای Node.js)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Best Practices:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;اصول و بهترین روش‌ها برای طراحی و پیاده‌سازی API های RESTful&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" link="&lt;li&gt;&lt;p&gt;&lt;strong&gt;مبانی REST:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تعریف REST (Representational State Transfer)&lt;/li&gt;&lt;li&gt;شش اصل معماری REST:&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Uniform Interface&lt;/strong&gt; (رابط یکپارچه)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Statelessness&lt;/strong&gt; (بی‌حالتی)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cacheable&lt;/strong&gt; (قابل کش شدن)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Client-Server&lt;/strong&gt; (کلاینت-سرور)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Layered System&lt;/strong&gt; (سیستم لایه‌ای)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Code on Demand&lt;/strong&gt; (کد به درخواست، اختیاری)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;HTTP Methods:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;GET&lt;/strong&gt; (دریافت اطلاعات)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;POST&lt;/strong&gt; (ارسال اطلاعات)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;PUT&lt;/strong&gt; (بروزرسانی/ایجاد)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;DELETE&lt;/strong&gt; (حذف)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;PATCH&lt;/strong&gt; (بروزرسانی جزئی)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;URI و URL:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ساختار و طراحی URI (Uniform Resource Identifier)&lt;/li&gt;&lt;li&gt;استفاده از منابع و نقاط انتهایی (Endpoints)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;HTTP Status Codes:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;کدهای وضعیت HTTP و معنای آن‌ها (200, 201, 204, 400, 401, 403, 404, 500 و غیره)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Headers:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;HTTP Headers (مانند Content-Type, Accept)&lt;/li&gt;&lt;li&gt;Authentication and Authorization Headers (مانند Authorization, Bearer Token)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Payloads:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;قالب‌های داده (JSON, XML)&lt;/li&gt;&lt;li&gt;انواع Content-Type و کاربردهای آن‌ها&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Versioning:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;روش‌های نسخه‌بندی API (URI Versioning, Query Parameter, Custom Headers)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Error Handling:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مدیریت خطاها و پاسخ‌های مناسب (Error Response Structure)&lt;/li&gt;&lt;li&gt;ارائه پیام‌های خطای مناسب&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rate Limiting:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;محدودیت تعداد درخواست‌ها (Rate Limiting)&lt;/li&gt;&lt;li&gt;سیاست‌های مختلف برای محدودیت نرخ درخواست‌ها&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Security:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;روش‌های امنیتی (HTTPS, Authentication, Authorization)&lt;/li&gt;&lt;li&gt;JWT (JSON Web Token)&lt;/li&gt;&lt;li&gt;OAuth 2.0&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Documentation:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;مستندسازی API ها (استفاده از ابزارهایی مانند Swagger, OpenAPI)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;HATEOAS (Hypermedia as the Engine of Application State):&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;استفاده از لینک‌ها در پاسخ‌ها برای هدایت کلاینت‌ها&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Testing:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;تست API ها (ابزارهایی مانند Postman, Insomnia)&lt;/li&gt;&lt;li&gt;نوشتن تست‌های خودکار برای API ها (مانند استفاده از ابزارهایی مثل Jest, Mocha برای Node.js)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Best Practices:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;اصول و بهترین روش‌ها برای طراحی و پیاده‌سازی API های RESTful&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" id="mnYZtS2IQGjxHUUrYUR0-1">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-4580" y="-4990" width="480" height="1410" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-10" target="iK7U0udw2LHEJ0yr1-1O-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7016.5" y="-6430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-10" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Rest Fundamental&amp;nbsp;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7090" y="-6570" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-12" target="iK7U0udw2LHEJ0yr1-1O-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7200" y="-6430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-12" target="iK7U0udw2LHEJ0yr1-1O-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7016.5" y="-6320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-12" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;API Concept&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#744FDB;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7090" y="-6455" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-14" target="iK7U0udw2LHEJ0yr1-1O-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-14" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Application Programming Interface&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#744FDB;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7530" y="-6455" width="297" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-15" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Allow Interactions between systems&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;by following a set of &lt;font color=&quot;#ff1212&quot;&gt;standards &lt;/font&gt;and &lt;font color=&quot;#ff051e&quot;&gt;protocols&lt;/font&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#744FDB;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7900" y="-6470" width="297" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-20" target="iK7U0udw2LHEJ0yr1-1O-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7220" y="-6297.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-20" target="iK7U0udw2LHEJ0yr1-1O-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-20" value="Kind of APIs" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7090" y="-6345" width="147" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-22" target="iK7U0udw2LHEJ0yr1-1O-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7500" y="-6297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-22" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;We Can Have Different Architectural Styles of APIs&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7340" y="-6357.5" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-24" value="The Main one that key part of internet it&#39;s called REST" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7680" y="-6357.5" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-26" value="&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;RE&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;presentational&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;S&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;tate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;ransfer.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="-7740" y="-6197" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-29" target="iK7U0udw2LHEJ0yr1-1O-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7210" y="-6130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-29" target="iK7U0udw2LHEJ0yr1-1O-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7016.5" y="-5910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-29" value="REST is an architecture style to develop web services" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB42CC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7136.5" y="-6105" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-31" target="iK7U0udw2LHEJ0yr1-1O-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7450" y="-6050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-31" value="Use HTTP Protocol" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB42CC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7340" y="-6075" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-34" value="Allows you To Create \ Retrieve\ Update \Delete Information" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB42CC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7660" y="-6075" width="243.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-36" target="iK7U0udw2LHEJ0yr1-1O-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7140" y="-5910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-36" target="iK7U0udw2LHEJ0yr1-1O-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-7016" y="-5680" />
+              <mxPoint x="-7576" y="-5680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-36" target="iK7U0udw2LHEJ0yr1-1O-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-7016" y="-5680" />
+              <mxPoint x="-6997" y="-5680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-36" target="iK7U0udw2LHEJ0yr1-1O-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-7016" y="-5680" />
+              <mxPoint x="-6807" y="-5680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-36" target="iK7U0udw2LHEJ0yr1-1O-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-7016" y="-5680" />
+              <mxPoint x="-6627" y="-5680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-36" value="Rest Constraints" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#74DBDB;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7090" y="-5935" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-38" value="The Rest Architecture has 6 Constraints and 1 API that is driven by that can be called &lt;font color=&quot;#4242ff&quot;&gt;Restful&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#74DBDB;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7620" y="-5935" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-40" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Code on Demand&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-6700" y="-5550" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-41" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Layered System&amp;nbsp;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-6880" y="-5550" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-42" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Interface Uniform&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7070" y="-5550" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-43" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Cachable&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7250" y="-5550" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-44" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Stateless&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7450" y="-5550" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-45" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Client Server&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7650" y="-5550" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=-0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-36" target="iK7U0udw2LHEJ0yr1-1O-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-7017" y="-5680" />
+              <mxPoint x="-7374" y="-5680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-36" target="iK7U0udw2LHEJ0yr1-1O-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-7016" y="-5680" />
+              <mxPoint x="-7177" y="-5680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
