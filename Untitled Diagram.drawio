@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5" pages="2">
   <diagram name="Page-1" id="LG2aejodbbx1wu4bJTzq">
-    <mxGraphModel dx="9082" dy="7137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="9169" dy="7217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2787,7 +2787,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-7016" y="-5680" />
-              <mxPoint x="-7576" y="-5680" />
+              <mxPoint x="-7830" y="-5680" />
+              <mxPoint x="-7830" y="-5525" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2795,7 +2796,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-7016" y="-5680" />
-              <mxPoint x="-6997" y="-5680" />
+              <mxPoint x="-6710" y="-5680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2803,7 +2804,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-7016" y="-5680" />
-              <mxPoint x="-6807" y="-5680" />
+              <mxPoint x="-6350" y="-5680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2811,7 +2812,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-7016" y="-5680" />
-              <mxPoint x="-6627" y="-5680" />
+              <mxPoint x="-5950" y="-5680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2821,29 +2822,41 @@
         <mxCell id="iK7U0udw2LHEJ0yr1-1O-38" value="The Rest Architecture has 6 Constraints and 1 API that is driven by that can be called &lt;font color=&quot;#4242ff&quot;&gt;Restful&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#74DBDB;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
           <mxGeometry x="-7620" y="-5935" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iK7U0udw2LHEJ0yr1-1O-40" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Code on Demand&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
-          <mxGeometry x="-6700" y="-5550" width="147" height="50" as="geometry" />
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-40" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Code on Demand&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-6030" y="-5462.5" width="147" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iK7U0udw2LHEJ0yr1-1O-41" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Layered System&amp;nbsp;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
-          <mxGeometry x="-6880" y="-5550" width="147" height="50" as="geometry" />
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-41" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Layered System&amp;nbsp;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-6430" y="-5462.5" width="147" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iK7U0udw2LHEJ0yr1-1O-42" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Interface Uniform&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
-          <mxGeometry x="-7070" y="-5550" width="147" height="50" as="geometry" />
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-42" target="iK7U0udw2LHEJ0yr1-1O-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iK7U0udw2LHEJ0yr1-1O-43" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Cachable&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
-          <mxGeometry x="-7250" y="-5550" width="147" height="50" as="geometry" />
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-42" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Interface Uniform&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-6770" y="-5482.5" width="147" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iK7U0udw2LHEJ0yr1-1O-44" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Stateless&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
-          <mxGeometry x="-7450" y="-5550" width="147" height="50" as="geometry" />
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-43" target="iK7U0udw2LHEJ0yr1-1O-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iK7U0udw2LHEJ0yr1-1O-45" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Client Server&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
-          <mxGeometry x="-7650" y="-5550" width="147" height="50" as="geometry" />
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-43" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Cachable&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7193" y="-5500" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-44" target="iK7U0udw2LHEJ0yr1-1O-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-44" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Stateless&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7510" y="-5542.5" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-45" target="iK7U0udw2LHEJ0yr1-1O-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-45" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Client Server&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7898.5" y="-5555" width="147" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iK7U0udw2LHEJ0yr1-1O-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=-0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-36" target="iK7U0udw2LHEJ0yr1-1O-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-7017" y="-5680" />
-              <mxPoint x="-7374" y="-5680" />
+              <mxPoint x="-7016" y="-5680" />
+              <mxPoint x="-7434" y="-5680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2851,9 +2864,61 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-7016" y="-5680" />
-              <mxPoint x="-7177" y="-5680" />
+              <mxPoint x="-7120" y="-5680" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-52" target="iK7U0udw2LHEJ0yr1-1O-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-52" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Separation Of Concerns&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7920" y="-5422.5" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-57" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Client &amp;amp; Server&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;It Must Completely Independent each other&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7920" y="-5292.5" width="190" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-60" target="iK7U0udw2LHEJ0yr1-1O-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-65" value="SO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iK7U0udw2LHEJ0yr1-1O-64">
+          <mxGeometry x="-0.12" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-60" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;All The State that required in request must be sended by the client&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7510" y="-5412.5" width="147" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-63" target="iK7U0udw2LHEJ0yr1-1O-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-69" value="Witch Mean" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iK7U0udw2LHEJ0yr1-1O-68">
+          <mxGeometry x="-0.1825" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-63" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Server Must Not Store Any data During A Client - Server Communication&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7510" y="-5230" width="147" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-67" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Every Request Is Standalone Request&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7510" y="-5047.5" width="147" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-71" target="iK7U0udw2LHEJ0yr1-1O-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-71" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;A Computational&amp;nbsp; Storage Structure&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7193" y="-5370" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-75" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;Through Caching I&#39;s Possible to reduce or eliminate the Client Request&#39;s&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-7193" y="-5240" width="147" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iK7U0udw2LHEJ0yr1-1O-77" target="iK7U0udw2LHEJ0yr1-1O-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-77" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;How Client &amp;amp; Server Share Information&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-6770" y="-5352.5" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iK7U0udw2LHEJ0yr1-1O-79" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;It Should Define in Every Request In Interface&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="-6770" y="-5222.5" width="147" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
