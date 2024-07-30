@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5" pages="2">
   <diagram name="Page-1" id="LG2aejodbbx1wu4bJTzq">
-    <mxGraphModel dx="13548" dy="8426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="13480" dy="8728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2936,6 +2936,9 @@
         <mxCell id="29vV1yNbnb5zHryFHbTJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="29vV1yNbnb5zHryFHbTJ-2" target="29vV1yNbnb5zHryFHbTJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="29vV1yNbnb5zHryFHbTJ-2" target="29vV1yNbnb5zHryFHbTJ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="29vV1yNbnb5zHryFHbTJ-2" value="Project Organization &amp;amp; File Colacation" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#D5E8D4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
           <mxGeometry x="3895" y="-3510" width="297" height="50" as="geometry" />
         </mxCell>
@@ -3045,6 +3048,33 @@
         </mxCell>
         <mxCell id="29vV1yNbnb5zHryFHbTJ-34" value="if you don&#39;t want to that The not showen in URL use %F5 (like : %F5folderName" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6F0000;strokeWidth=1;fillColor=#a20025;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="6280" y="-3387.5" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="29vV1yNbnb5zHryFHbTJ-36" target="29vV1yNbnb5zHryFHbTJ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-36" value="Dynamic Route" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#D5E8D4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="3962.5" y="-3357.5" width="162" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="29vV1yNbnb5zHryFHbTJ-38" target="29vV1yNbnb5zHryFHbTJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-38" value="Convention" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B20000;strokeWidth=1;fillColor=#e51400;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="-3357.5" width="162" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="29vV1yNbnb5zHryFHbTJ-40" target="29vV1yNbnb5zHryFHbTJ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-40" value="A Dynamic Route Create by a folder with Square brackets" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B20000;strokeWidth=1;fillColor=#e51400;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="-3227.5" width="162" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="29vV1yNbnb5zHryFHbTJ-42" target="29vV1yNbnb5zHryFHbTJ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-42" value="[folderName]" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B20000;strokeWidth=1;fillColor=#e51400;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="-3050" width="162" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="29vV1yNbnb5zHryFHbTJ-44" value="Dynamic Segments are passed as the &lt;font color=&quot;#443dff&quot;&gt;params &lt;/font&gt;to &lt;font color=&quot;#5542ff&quot;&gt;layout&lt;/font&gt;, &lt;font color=&quot;#5542ff&quot;&gt;page &lt;/font&gt;,&lt;font color=&quot;#5542ff&quot;&gt;route&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B20000;strokeWidth=1;fillColor=#e51400;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="-2872.5" width="162" height="97.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
