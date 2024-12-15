@@ -145,6 +145,9 @@
         <mxCell id="Oc0uUHz0Iv2xXuUgYQCD-52" value="Single Pages" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#432D57;strokeWidth=1;fillColor=#554563;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
           <mxGeometry x="1274" y="460" width="147" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Oc0uUHz0Iv2xXuUgYQCD-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oc0uUHz0Iv2xXuUgYQCD-55" target="Oc0uUHz0Iv2xXuUgYQCD-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oc0uUHz0Iv2xXuUgYQCD-55" value="CSS" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#432D57;strokeWidth=1;fillColor=#554563;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
           <mxGeometry x="1860" y="70" width="147" height="50" as="geometry" />
         </mxCell>
@@ -177,6 +180,9 @@
         </mxCell>
         <mxCell id="Oc0uUHz0Iv2xXuUgYQCD-70" value="Category Management" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#432D57;strokeWidth=1;fillColor=#554563;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
           <mxGeometry x="3240" y="70" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Oc0uUHz0Iv2xXuUgYQCD-71" value="Add Styles" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#005700;strokeWidth=1;fillColor=#008a00;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=1;glass=0;fillStyle=auto;fontFamily=Comic Sans MS;horizontal=1;textDirection=rtl;points=[];" vertex="1" parent="1">
+          <mxGeometry x="1860" y="170" width="147" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
